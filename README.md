@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Software Developer from India</h3>
 <h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+    <i>- I'm a Full Stack Web Developer  who focuses on writing clean, elegant and efficient code.</i>
 </h3>
 
 <img src="https://miro.medium.com/max/828/1*qdAW1TjCN57h1lbuuzvchg.gif" align="right"   alt="img" />
