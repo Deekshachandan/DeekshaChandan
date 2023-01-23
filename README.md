@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deeksha Purohit</h1>
 
-<h3 align="center">Aspiring MERN Developer</h3>
-<h3>
-    <i>- I'm a Full Stack Web Developer  who focuses on writing clean, elegant and efficient code.</i>
-</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from India. Dedicated and accountable Full Stack Web Developer. Skilled in MERN stack.</h3>
+
+
 
 <img src="https://miro.medium.com/max/828/1*qdAW1TjCN57h1lbuuzvchg.gif" align="right"   alt="img" />
 
