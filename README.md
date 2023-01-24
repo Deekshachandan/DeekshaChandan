@@ -23,10 +23,10 @@
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400" src="https://st2.depositphotos.com/1802620/7621/v/950/depositphotos_76219969-stock-illustration-online-shopping-flat-concept.jpg">
 <p align="left">
-<a href="https://twitter.com/shrikrishnaalu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrikrishnaalu1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/krishna-aluri-b9613515a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrikrishna aluri" height="30" width="40" /></a>
-<a href="https://codesandbox.com/641krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="641krishna" height="30" width="40" /></a>
-<a href="https://instagram.com/itskrishna_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itskrishna_18" height="30" width="40" /></a>
+<a href="https://twitter.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shrikrishnaalu1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deeksha-purohit-9909b3178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrikrishna aluri" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/deeksharajpurohit15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="641krishna" height="30" width="40" /></a>
+
 </p>
 
 
